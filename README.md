@@ -3,6 +3,8 @@ An object detection system based on **Computer Vision** designed to automaticall
 
 *This project demonstrates the implementation of Deep Learning in the retail/manufacturing industry to accelerate stock-taking processes with high precision.*
 
+**📥 Download Model Weights: [best_model_candy_prediction.pt (v1)](https://github.com/Billy1205/candy-counting-object-detection/releases/download/candy-counting-object-detection-model/best_model_candy_prediction.pt)**
+
 ## 📝 Project Description
 
 The primary goal of this project is to build a model capable of identifying and counting various types of candies in a single scan. By leveraging the **YOLOv8** model, the system operates in **real-time** and provides accurate inventory reports. The project workflow includes dataset acquisition via **Roboflow**, model training in a GPU-accelerated environment (**Google Colab**), and visualization of detection results using **bounding boxes**.
@@ -61,6 +63,8 @@ pip install -r requirements.txt
 Sistem deteksi objek berbasis **Computer Vision** untuk menghitung jumlah permen secara otomatis dalam sebuah gambar. Proyek ini menggunakan arsitektur **YOLOv8** (You Only Look Once) yang dilatih menggunakan dataset khusus untuk kebutuhan manajemen inventaris otomatis.
 
 *Proyek ini mendemonstrasikan implementasi Deep Learning di bidang industri retail/manufaktur untuk mempercepat proses perhitungan stok (stock-taking) dengan akurasi tinggi.*
+
+**📥 Download Model Weights: [best_model_candy_prediction.pt (v1)](https://github.com/Billy1205/candy-counting-object-detection/releases/download/candy-counting-object-detection-model/best_model_candy_prediction.pt)**
 
 ## 📝 Project Description
 
